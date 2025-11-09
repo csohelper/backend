@@ -1,5 +1,5 @@
 services:
-  csohelper-postgres:
+  csohelper-backend-postgres:
     image: postgres:15
     restart: always
     environment:
